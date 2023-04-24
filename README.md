@@ -1,6 +1,6 @@
 Me chamo Pedro Guarnieri, estudo tecnologias front-end a 6 meses.
 
-Tecnologias principais e que tenho conhecimento são JavaScript, Python, HTML, CSS.
+Tecnologias principais e que tenho conhecimento são JavaScript, Python, HTML, CSS, React.JS
 
 
 
