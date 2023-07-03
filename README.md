@@ -1,4 +1,4 @@
-Me chamo Pedro Guarnieri e sou apaixonado por tecnologia :)
+Hi!! I'm Pedro.
 
 Tecnologias principais e que tenho conhecimento são JavaScript, Python,CSS, React, NodeJS, mySQL, Mongo.
 
