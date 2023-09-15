@@ -28,6 +28,9 @@ Hi there! I'm Pedro, a developer passionate about technology and enthusiast of l
   </tr>
   <tr>
     <td align="center">
+      <img src="https://img.shields.io/badge/Spring%20Cloud-007ACC?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud">
+    </td>
+    <td align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
     </td>
     <td align="center">
