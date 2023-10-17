@@ -1,6 +1,6 @@
 # Pedro Guarnieri :whale2:
 
-Hi there! I'm Pedro, a developer passionate about technology and enthusiast of languages like JavaScript, Python, CSS, and frameworks such as React, Node.js, Express, and Next.js. I also have experience with databases like MySQL and MongoDB.
+Hi there, I'm Pedro, a backend developer who loves technology and solving problems. How can I help you today?
 
 ## Main Technologies
 
